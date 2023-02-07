@@ -1,0 +1,50 @@
+[
+  {
+    "username": "Billie",
+    "password": "UntzUntz3000!",
+    "accounts": [
+      {
+        "accountnr": "321-12345",
+        "balance": 0
+      },
+      {
+        "accountnr": "321-23456",
+        "balance": 0
+      },
+      {
+        "accountnr": "321-34567",
+        "balance": 0
+      }
+    ]
+  },
+  {
+    "username": "Harry",
+    "password": "rullaHatt100%",
+    "accounts": []
+  },
+  {
+    "username": "Peter",
+    "password": "badpassword",
+    "accounts": []
+  },
+  {
+    "username": "Hani",
+    "password": "MoneyXL543c&",
+    "accounts": []
+  },
+  {
+    "username": "Maud",
+    "password": "MorkasSmb90.",
+    "accounts": []
+  },
+  {
+    "username": "Alex",
+    "password": "MyBankPassword123",
+    "accounts": []
+  },
+  {
+    "username": "Amalia",
+    "password": "UnAvion1920#",
+    "accounts": []
+  }
+]
